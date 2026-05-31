@@ -38,7 +38,7 @@ Sou um desenvolvedor sedento por conhecimento, que sempre procura ideias novas e
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<center/>
+</center>
 
 
 
