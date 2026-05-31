@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor sedento por conhecimento, que sempre procura ideias novas e novos jeitos de fazer coisas. Sempre fui apaixonado por computadores desde meu primeiro contato quando criança, hoje estou em uma posição onde posso trabalhar com isso, programando, criando apps e sites que facilitem e agilizem a vida das pessoas, sempre dando a devida atenção á experiência do usuário, criando tanto um código limpo como uma interface limpa fácil de usar e fácil de trabalhar.
 
-<center>
+
 
 ## 📨 Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-rossa/)
@@ -38,7 +38,6 @@ Sou um desenvolvedor sedento por conhecimento, que sempre procura ideias novas e
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-</center>
 
 
 
