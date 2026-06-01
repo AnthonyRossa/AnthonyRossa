@@ -1,16 +1,16 @@
 # Anthony Rossa
 
-### Desenvolvedor Full Stack
+### Full Stack Developer
 
-Sou um desenvolvedor sedento por conhecimento, que sempre procura ideias novas e novos jeitos de fazer coisas. Sempre fui apaixonado por computadores desde meu primeiro contato quando criança, hoje estou em uma posição onde posso trabalhar com isso, programando, criando apps e sites que facilitem e agilizem a vida das pessoas, sempre dando a devida atenção á experiência do usuário, criando tanto um código limpo como uma interface limpa fácil de usar e fácil de trabalhar.
+I am a developer driven by knowledge, always seeking fresh ideas and new ways to accomplish tasks. I have been passionate about computers since my first encounter with one as a child, and today I am in a position to work with this passion, programming, creating apps and websites that simplify and accelarete people's tasks. Always giving due attention to user experience, crafting both clean code and a clean, intuitive interface that is both easy to use and work with.
 
 
 
-## 📨 Contato
+## 📨 Reach me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-rossa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonysixty23@gmail.com)
 
-## 🔨 Habilidades e Ferramentas
+## 🔨 Skills and tools
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
