@@ -32,7 +32,6 @@ I've recently acquire a new passion, Linux and Open Source software, I've been u
 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
 #### Software
-[![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.html)
 [![Zorin OS](https://img.shields.io/badge/Zorin%20OS-%2310AAEB.svg?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com)
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
