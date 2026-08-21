@@ -6,7 +6,7 @@ I am a developer driven by knowledge, always seeking fresh ideas and new ways to
 
 ### 🐧 Linux and Open Source​
 
-I've recently acquire a new passion, Linux and Open Source software, I've been using Linux on both my personal and work computers for the last year, and looking for open source softwares to run in these machines, this came to be part due to my curiosity and my constant seek for alternative ways for accomplishing things, and also by my admiration towards the Open Source culture and history, and people like Richard Stallman and Linus Torvalds. Now i feel very confident using Linux and bash script, I've started out with Linux Mint, used Fedora for a while, and I'm currently using Debian as my main distro, wich has been the most compatible with my developer tools so far. I'm also looking foward and planning to explore new coding languages closer to this field, like Python, C++, Rust, etc.
+I've recently acquire a new passion, Linux and Open Source software, I've been using Linux on both my personal and work computers for the last year, and looking for open source software to run in these machines, this came to be part due to my curiosity and my constant seek for alternative ways for accomplishing things, and also by my admiration towards the Open Source culture and history, and people like Richard Stallman and Linus Torvalds. Now i feel very confident using Linux and bash script. I'm also looking forward and planning to explore new coding languages closer to this field, like Python, C++, Rust, etc.
 
 
 
@@ -33,6 +33,7 @@ I've recently acquire a new passion, Linux and Open Source software, I've been u
 
 #### Software
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.html)
+[![Zorin OS](https://img.shields.io/badge/Zorin%20OS-%2310AAEB.svg?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com)
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
